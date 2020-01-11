@@ -1,3 +1,14 @@
+Para la prueba debe clonar este repositorio y crear una rama para su código. Es un aplicativo react (Ver más abajo).
+
+El objetivo es crear una pequeña aplicación de To Dos (tareas pendientes), conectada a nuestro motor de gamificación.
+Cada vez que el "jugador" chequee una tarea completada, debe actualizarse su panel de jugador, que tendrá una barra de progreso para puntos de experiencia (xp) y para puntos de vida (hp). Toda la lógica de comportamiento ya está parametrizada en el motor de gamificación.
+
+La documentación detallada de la prueba se encuentra en App.js y engine.js
+
+No es necesario completar todas las tareas, pero su nivel de progreso será tomado en cuenta.
+
+¡Buena suerte!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
